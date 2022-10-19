@@ -1,4 +1,4 @@
-{
+ï»¿{
   "name": "com.example.package",
   "version": "1.0.0",
   "displayName": "Package Sample",
@@ -13,13 +13,13 @@
   },
   "samples": [
     {
-      "displayName": "ƒTƒ“ƒv01",
-      "description": "‚±‚ê‚Í1‚Â–Ú‚ÌƒTƒ“ƒvƒ‹‚Å‚·B",
+      "displayName": "ã‚µãƒ³ãƒ—01",
+      "description": "ã“ã‚Œã¯1ã¤ç›®ã®ã‚µãƒ³ãƒ—ãƒ«ã§ã™ã€‚",
       "path": "Samples~/Sample02"
     },
     {
-      "displayName": "ƒTƒ“ƒvƒ‹02",
-      "description": "‚±‚ê‚Í2‚Â–Ú‚ÌƒTƒ“ƒvƒ‹‚Å‚·B",
+      "displayName": "ã‚µãƒ³ãƒ—ãƒ«02",
+      "description": "ã“ã‚Œã¯2ã¤ç›®ã®ã‚µãƒ³ãƒ—ãƒ«ã§ã™ã€‚",
       "path": "Samples~/Sample01"
     }
   ]
