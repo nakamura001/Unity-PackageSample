@@ -2,7 +2,7 @@
   "name": "com.example.package",
   "version": "1.0.0",
   "displayName": "Package Sample",
-  "description": "Test",
+  "description": "GitHubでPackage Managerに対応するサンプル",
   "unity": "2021.3",
   "dependencies": {},
   "keywords": [],
@@ -13,7 +13,7 @@
   },
   "samples": [
     {
-      "displayName": "サンプ01",
+      "displayName": "サンプル01",
       "description": "これは1つ目のサンプルです。",
       "path": "Samples~/Sample02"
     },
