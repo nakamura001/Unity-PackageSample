@@ -1,0 +1,14 @@
+{
+  "samples": [
+    {
+      "displayName": "サンプ01",
+      "description": "これは1つ目のサンプルです。",
+      "path": "Samples~/Sample02"
+    },
+    {
+      "displayName": "サンプル02",
+      "description": "これは2つ目のサンプルです。",
+      "path": "Samples~/Sample01"
+    }
+  ]
+}
