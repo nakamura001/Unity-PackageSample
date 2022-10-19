@@ -15,12 +15,12 @@
     {
       "displayName": "サンプル01",
       "description": "これは1つ目のサンプルです。",
-      "path": "Samples~/Sample02"
+      "path": "Samples~/Sample01"
     },
     {
       "displayName": "サンプル02",
       "description": "これは2つ目のサンプルです。",
-      "path": "Samples~/Sample01"
+      "path": "Samples~/Sample02"
     }
   ]
 }
