@@ -1,0 +1,26 @@
+{
+  "name": "com.example.package",
+  "version": "1.0.0",
+  "displayName": "Package Sample",
+  "description": "Package Managerに対応するGitリポジトリのサンプル。",
+  "unity": "2021.3",
+  "dependencies": {},
+  "keywords": [],
+  "author": {
+    "name": "nakamura001",
+    "email": "nakamura001@example.com",
+    "url": "https://github.com/nakamura001"
+  },
+  "samples": [
+    {
+      "displayName": "サンプ01",
+      "description": "これは1つ目のサンプルです。",
+      "path": "Samples~/Sample02"
+    },
+    {
+      "displayName": "サンプル02",
+      "description": "これは2つ目のサンプルです。",
+      "path": "Samples~/Sample01"
+    }
+  ]
+}
